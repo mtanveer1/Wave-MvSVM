@@ -1,6 +1,6 @@
 # Wave-MvSVM: Enhancing Multiview Synergy: Robust Learning by Exploiting the Wave Loss Function with Consensus and Complementarity Principles
 
-Please cite the following paper if you are using this code. Reference: A. Quadir, Mushir Akhtar, M. Tanveer. Enhancing Multiview Synergy: Robust Learning by Exploiting the Wave Loss Function with Consensus and Complementarity Principles.
+Please cite the following paper if you are using this code. Reference: Quadir, A., Akhtar, M., & Tanveer, M. (2025). Enhancing multiview synergy: Robust learning by exploiting the wave loss function with consensus and complementarity principles. Neural Networks, 188, 107433. https://doi.org/10.1016/j.neunet.2025.107433
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
